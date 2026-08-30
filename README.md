@@ -33,3 +33,7 @@ git clone XiomaraCs/Xiomara-Estevez
 
 Author
 Xiomara E.
+
+## RunLocalHost:
+
+npm run dev
